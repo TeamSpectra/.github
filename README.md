@@ -8,4 +8,9 @@ Spectra is a team created by Azuris, the founder and the standing owner of the R
 
 ---
 
-Our current/planned projects t
+Our current/planned projects are as following:
+| Project Name | Project Description | Status |
+|--------------|---------------------|--------|
+| Rubidium     |                     |        |
+| Uranium      |                     |        |
+| Bismuth      |                     |        |
